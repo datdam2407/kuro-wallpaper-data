@@ -1,1679 +1,811 @@
 {
   "version": 1,
-  "total": 239,
+  "total": 115,
   "items": [
+    {
+      "id": "r2_anime_0001",
+      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0001.webp",
+      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0001_thumb.webp",
+      "width": 1103,
+      "height": 2160
+    },
     {
       "id": "r2_anime_0002",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0002.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0002_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0003",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0003.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0003_thumb.webp",
-      "width": 524,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0004",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0004.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0004_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0005",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0005.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0005_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0006",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0006.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0006_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0007",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0007.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0007_thumb.webp",
-      "width": 606,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0008",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0008.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0008_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0009",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0009.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0009_thumb.webp",
-      "width": 415,
-      "height": 740
+      "width": 474,
+      "height": 948
     },
     {
       "id": "r2_anime_0010",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0010.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0010_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 474,
+      "height": 711
     },
     {
       "id": "r2_anime_0011",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0011.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0011_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 736,
+      "height": 1472
     },
     {
       "id": "r2_anime_0012",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0012.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0012_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 736,
+      "height": 1308
     },
     {
       "id": "r2_anime_0013",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0013.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0013_thumb.webp",
-      "width": 423,
-      "height": 740
+      "width": 474,
+      "height": 948
     },
     {
       "id": "r2_anime_0014",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0014.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0014_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 473,
+      "height": 842
     },
     {
       "id": "r2_anime_0015",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0015.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0015_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 474,
+      "height": 843
     },
     {
       "id": "r2_anime_0016",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0016.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0016_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 736,
+      "height": 1313
     },
     {
       "id": "r2_anime_0017",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0017.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0017_thumb.webp",
-      "width": 493,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0018",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0018.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0018_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 720,
+      "height": 1280
     },
     {
       "id": "r2_anime_0019",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0019.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0019_thumb.webp",
-      "width": 562,
-      "height": 740
+      "width": 474,
+      "height": 793
     },
     {
       "id": "r2_anime_0020",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0020.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0020_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 706
     },
     {
       "id": "r2_anime_0021",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0021.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0021_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 706
     },
     {
       "id": "r2_anime_0022",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0022.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0022_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 706
     },
     {
       "id": "r2_anime_0023",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0023.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0023_thumb.webp",
-      "width": 465,
-      "height": 740
+      "width": 474,
+      "height": 706
     },
     {
       "id": "r2_anime_0024",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0024.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0024_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 706
     },
     {
       "id": "r2_anime_0025",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0025.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0025_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 474,
+      "height": 829
     },
     {
       "id": "r2_anime_0026",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0026.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0026_thumb.webp",
-      "width": 555,
-      "height": 740
+      "width": 474,
+      "height": 927
     },
     {
       "id": "r2_anime_0027",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0027.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0027_thumb.webp",
-      "width": 423,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0028",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0028.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0028_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0029",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0029.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0029_thumb.webp",
-      "width": 555,
-      "height": 740
+      "width": 474,
+      "height": 948
     },
     {
       "id": "r2_anime_0030",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0030.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0030_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0031",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0031.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0031_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0032",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0032.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0032_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0033",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0033.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0033_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 948
     },
     {
       "id": "r2_anime_0034",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0034.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0034_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 474,
+      "height": 938
     },
     {
       "id": "r2_anime_0035",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0035.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0035_thumb.webp",
-      "width": 592,
-      "height": 740
+      "width": 474,
+      "height": 948
     },
     {
       "id": "r2_anime_0036",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0036.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0036_thumb.webp",
-      "width": 423,
-      "height": 740
+      "width": 474,
+      "height": 846
     },
     {
       "id": "r2_anime_0037",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0037.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0037_thumb.webp",
-      "width": 423,
-      "height": 740
+      "width": 474,
+      "height": 845
     },
     {
       "id": "r2_anime_0038",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0038.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0038_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 711
     },
     {
       "id": "r2_anime_0039",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0039.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0039_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 845
     },
     {
       "id": "r2_anime_0040",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0040.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0040_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0041",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0041.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0041_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0042",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0042.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0042_thumb.webp",
-      "width": 415,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0043",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0043.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0043_thumb.webp",
-      "width": 423,
-      "height": 740
+      "width": 474,
+      "height": 843
     },
     {
       "id": "r2_anime_0044",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0044.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0044_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 948
     },
     {
       "id": "r2_anime_0045",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0045.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0045_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0046",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0046.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0046_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0047",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0047.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0047_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0048",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0048.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0048_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0049",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0049.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0049_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 473,
+      "height": 845
     },
     {
       "id": "r2_anime_0050",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0050.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0050_thumb.webp",
-      "width": 651,
-      "height": 740
+      "width": 474,
+      "height": 845
     },
     {
       "id": "r2_anime_0051",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0051.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0051_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 474,
+      "height": 854
     },
     {
       "id": "r2_anime_0052",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0052.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0052_thumb.webp",
-      "width": 415,
-      "height": 740
+      "width": 474,
+      "height": 844
     },
     {
       "id": "r2_anime_0053",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0053.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0053_thumb.webp",
-      "width": 330,
-      "height": 740
+      "width": 474,
+      "height": 938
     },
     {
       "id": "r2_anime_0054",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0054.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0054_thumb.webp",
-      "width": 423,
-      "height": 740
+      "width": 474,
+      "height": 948
     },
     {
       "id": "r2_anime_0055",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0055.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0055_thumb.webp",
-      "width": 415,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0056",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0056.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0056_thumb.webp",
-      "width": 506,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0057",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0057.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0057_thumb.webp",
-      "width": 423,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0058",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0058.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0058_thumb.webp",
-      "width": 562,
-      "height": 740
+      "width": 474,
+      "height": 841
     },
     {
       "id": "r2_anime_0059",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0059.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0059_thumb.webp",
-      "width": 423,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0060",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0060.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0060_thumb.webp",
-      "width": 415,
-      "height": 740
+      "width": 474,
+      "height": 709
     },
     {
       "id": "r2_anime_0061",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0061.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0061_thumb.webp",
-      "width": 506,
-      "height": 740
+      "width": 474,
+      "height": 782
     },
     {
       "id": "r2_anime_0062",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0062.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0062_thumb.webp",
-      "width": 592,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0063",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0063.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0063_thumb.webp",
-      "width": 423,
-      "height": 740
+      "width": 474,
+      "height": 948
     },
     {
       "id": "r2_anime_0064",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0064.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0064_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 474,
+      "height": 837
     },
     {
       "id": "r2_anime_0065",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0065.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0065_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0066",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0066.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0066_thumb.webp",
-      "width": 506,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0067",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0067.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0067_thumb.webp",
-      "width": 562,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0068",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0068.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0068_thumb.webp",
-      "width": 423,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0069",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0069.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0069_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0070",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0070.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0070_thumb.webp",
-      "width": 370,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0071",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0071.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0071_thumb.webp",
-      "width": 562,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0072",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0072.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0072_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0073",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0073.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0073_thumb.webp",
-      "width": 506,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0074",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0074.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0074_thumb.webp",
-      "width": 415,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0075",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0075.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0075_thumb.webp",
-      "width": 592,
-      "height": 740
+      "width": 474,
+      "height": 948
     },
     {
       "id": "r2_anime_0076",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0076.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0076_thumb.webp",
-      "width": 506,
-      "height": 740
+      "width": 474,
+      "height": 711
     },
     {
       "id": "r2_anime_0077",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0077.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0077_thumb.webp",
-      "width": 506,
-      "height": 740
+      "width": 474,
+      "height": 711
     },
     {
       "id": "r2_anime_0078",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0078.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0078_thumb.webp",
-      "width": 370,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0079",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0079.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0079_thumb.webp",
-      "width": 423,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0080",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0080.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0080_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 474,
+      "height": 845
     },
     {
       "id": "r2_anime_0081",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0081.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0081_thumb.webp",
-      "width": 423,
-      "height": 740
+      "width": 474,
+      "height": 948
     },
     {
       "id": "r2_anime_0082",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0082.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0082_thumb.webp",
-      "width": 423,
-      "height": 740
+      "width": 473,
+      "height": 841
     },
     {
       "id": "r2_anime_0083",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0083.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0083_thumb.webp",
-      "width": 562,
-      "height": 740
+      "width": 474,
+      "height": 845
     },
     {
       "id": "r2_anime_0084",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0084.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0084_thumb.webp",
-      "width": 423,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0085",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0085.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0085_thumb.webp",
-      "width": 562,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0086",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0086.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0086_thumb.webp",
-      "width": 562,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0087",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0087.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0087_thumb.webp",
-      "width": 557,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0088",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0088.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0088_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0089",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0089.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0089_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0090",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0090.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0090_thumb.webp",
-      "width": 562,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0091",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0091.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0091_thumb.webp",
-      "width": 562,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0092",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0092.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0092_thumb.webp",
-      "width": 592,
-      "height": 740
+      "width": 474,
+      "height": 948
     },
     {
       "id": "r2_anime_0093",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0093.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0093_thumb.webp",
-      "width": 630,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0094",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0094.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0094_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 474,
+      "height": 845
     },
     {
       "id": "r2_anime_0095",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0095.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0095_thumb.webp",
-      "width": 592,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0096",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0096.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0096_thumb.webp",
-      "width": 441,
-      "height": 740
+      "width": 474,
+      "height": 845
     },
     {
       "id": "r2_anime_0097",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0097.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0097_thumb.webp",
-      "width": 422,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0098",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0098.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0098_thumb.webp",
-      "width": 423,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0099",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0099.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0099_thumb.webp",
-      "width": 562,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0100",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0100.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0100_thumb.webp",
-      "width": 562,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0101",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0101.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0101_thumb.webp",
-      "width": 592,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0102",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0102.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0102_thumb.webp",
-      "width": 506,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0103",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0103.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0103_thumb.webp",
-      "width": 415,
-      "height": 740
+      "width": 474,
+      "height": 843
     },
     {
       "id": "r2_anime_0104",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0104.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0104_thumb.webp",
-      "width": 370,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0105",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0105.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0105_thumb.webp",
-      "width": 562,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0106",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0106.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0106_thumb.webp",
-      "width": 562,
-      "height": 740
+      "width": 473,
+      "height": 730
     },
     {
       "id": "r2_anime_0107",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0107.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0107_thumb.webp",
-      "width": 506,
-      "height": 740
+      "width": 474,
+      "height": 760
     },
     {
       "id": "r2_anime_0108",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0108.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0108_thumb.webp",
-      "width": 423,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0109",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0109.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0109_thumb.webp",
-      "width": 592,
-      "height": 740
+      "width": 474,
+      "height": 948
     },
     {
       "id": "r2_anime_0110",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0110.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0110_thumb.webp",
-      "width": 592,
-      "height": 740
+      "width": 474,
+      "height": 933
     },
     {
       "id": "r2_anime_0111",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0111.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0111_thumb.webp",
-      "width": 493,
-      "height": 740
+      "width": 474,
+      "height": 711
     },
     {
       "id": "r2_anime_0112",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0112.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0112_thumb.webp",
-      "width": 682,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0113",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0113.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0113_thumb.webp",
-      "width": 592,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0114",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0114.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0114_thumb.webp",
-      "width": 415,
-      "height": 740
+      "width": 474,
+      "height": 830
     },
     {
       "id": "r2_anime_0115",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0115.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0115_thumb.webp",
-      "width": 630,
-      "height": 740
+      "width": 474,
+      "height": 842
     },
     {
       "id": "r2_anime_0116",
       "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0116.webp",
       "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0116_thumb.webp",
-      "width": 423,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0117",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0117.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0117_thumb.webp",
-      "width": 493,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0118",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0118.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0118_thumb.webp",
-      "width": 422,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0119",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0119.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0119_thumb.webp",
-      "width": 493,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0120",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0120.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0120_thumb.webp",
-      "width": 562,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0121",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0121.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0121_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0122",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0122.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0122_thumb.webp",
-      "width": 506,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0123",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0123.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0123_thumb.webp",
-      "width": 493,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0124",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0124.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0124_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0125",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0125.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0125_thumb.webp",
-      "width": 506,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0126",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0126.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0126_thumb.webp",
-      "width": 423,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0127",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0127.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0127_thumb.webp",
-      "width": 533,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0128",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0128.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0128_thumb.webp",
-      "width": 592,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0129",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0129.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0129_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0130",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0130.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0130_thumb.webp",
-      "width": 493,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0131",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0131.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0131_thumb.webp",
-      "width": 403,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0132",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0132.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0132_thumb.webp",
-      "width": 506,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0133",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0133.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0133_thumb.webp",
-      "width": 423,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0134",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0134.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0134_thumb.webp",
-      "width": 370,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0135",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0135.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0135_thumb.webp",
-      "width": 441,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0136",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0136.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0136_thumb.webp",
-      "width": 506,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0137",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0137.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0137_thumb.webp",
-      "width": 626,
-      "height": 626
-    },
-    {
-      "id": "r2_anime_0138",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0138.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0138_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0139",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0139.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0139_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0140",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0140.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0140_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0141",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0141.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0141_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0142",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0142.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0142_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0143",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0143.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0143_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0144",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0144.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0144_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0145",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0145.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0145_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0146",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0146.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0146_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0147",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0147.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0147_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0148",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0148.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0148_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0149",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0149.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0149_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0150",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0150.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0150_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0151",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0151.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0151_thumb.webp",
-      "width": 592,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0152",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0152.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0152_thumb.webp",
-      "width": 592,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0153",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0153.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0153_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0154",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0154.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0154_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0155",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0155.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0155_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0156",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0156.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0156_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0157",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0157.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0157_thumb.webp",
-      "width": 416,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0158",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0158.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0158_thumb.webp",
-      "width": 521,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0159",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0159.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0159_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0160",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0160.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0160_thumb.webp",
-      "width": 592,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0161",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0161.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0161_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0162",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0162.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0162_thumb.webp",
-      "width": 422,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0163",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0163.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0163_thumb.webp",
-      "width": 423,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0164",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0164.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0164_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0165",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0165.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0165_thumb.webp",
-      "width": 558,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0166",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0166.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0166_thumb.webp",
-      "width": 506,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0167",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0167.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0167_thumb.webp",
-      "width": 370,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0168",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0168.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0168_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0169",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0169.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0169_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0170",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0170.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0170_thumb.webp",
-      "width": 739,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0171",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0171.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0171_thumb.webp",
-      "width": 558,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0172",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0172.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0172_thumb.webp",
-      "width": 592,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0173",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0173.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0173_thumb.webp",
-      "width": 493,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0174",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0174.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0174_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0175",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0175.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0175_thumb.webp",
-      "width": 576,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0176",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0176.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0176_thumb.webp",
-      "width": 493,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0177",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0177.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0177_thumb.webp",
-      "width": 493,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0178",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0178.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0178_thumb.webp",
-      "width": 591,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0179",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0179.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0179_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0180",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0180.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0180_thumb.webp",
-      "width": 493,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0181",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0181.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0181_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0182",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0182.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0182_thumb.webp",
-      "width": 564,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0183",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0183.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0183_thumb.webp",
-      "width": 493,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0184",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0184.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0184_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0185",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0185.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0185_thumb.webp",
-      "width": 592,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0186",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0186.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0186_thumb.webp",
-      "width": 423,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0187",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0187.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0187_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0188",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0188.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0188_thumb.webp",
-      "width": 418,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0189",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0189.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0189_thumb.webp",
-      "width": 506,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0190",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0190.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0190_thumb.webp",
-      "width": 423,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0191",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0191.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0191_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0192",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0192.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0192_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0193",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0193.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0193_thumb.webp",
-      "width": 592,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0194",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0194.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0194_thumb.webp",
-      "width": 592,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0195",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0195.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0195_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0196",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0196.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0196_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0197",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0197.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0197_thumb.webp",
-      "width": 465,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0198",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0198.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0198_thumb.webp",
-      "width": 592,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0199",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0199.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0199_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0200",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0200.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0200_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0201",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0201.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0201_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0202",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0202.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0202_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0203",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0203.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0203_thumb.webp",
-      "width": 592,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0204",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0204.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0204_thumb.webp",
-      "width": 493,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0205",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0205.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0205_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0206",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0206.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0206_thumb.webp",
-      "width": 514,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0207",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0207.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0207_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0208",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0208.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0208_thumb.webp",
-      "width": 416,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0209",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0209.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0209_thumb.webp",
-      "width": 592,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0210",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0210.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0210_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0211",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0211.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0211_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0212",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0212.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0212_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0213",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0213.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0213_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0214",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0214.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0214_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0215",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0215.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0215_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0216",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0216.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0216_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0217",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0217.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0217_thumb.webp",
-      "width": 493,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0218",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0218.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0218_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0219",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0219.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0219_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0220",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0220.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0220_thumb.webp",
-      "width": 493,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0221",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0221.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0221_thumb.webp",
-      "width": 428,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0222",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0222.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0222_thumb.webp",
-      "width": 737,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0223",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0223.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0223_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0224",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0224.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0224_thumb.webp",
-      "width": 493,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0225",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0225.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0225_thumb.webp",
-      "width": 441,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0226",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0226.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0226_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0227",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0227.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0227_thumb.webp",
-      "width": 418,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0228",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0228.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0228_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0229",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0229.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0229_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0230",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0230.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0230_thumb.webp",
-      "width": 576,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0231",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0231.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0231_thumb.webp",
-      "width": 340,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0232",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0232.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0232_thumb.webp",
-      "width": 416,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0233",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0233.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0233_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0234",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0234.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0234_thumb.webp",
-      "width": 557,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0235",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0235.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0235_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0236",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0236.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0236_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0237",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0237.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0237_thumb.webp",
-      "width": 415,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0238",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0238.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0238_thumb.webp",
-      "width": 414,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0239",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0239.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0239_thumb.webp",
-      "width": 576,
-      "height": 740
-    },
-    {
-      "id": "r2_anime_0240",
-      "imageUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/full/anime_0240.webp",
-      "thumbnailUrl": "https://pub-d22f9bea4689411daf3cd7670bb7f7ff.r2.dev/static-wallpapers/thumbs/anime_0240_thumb.webp",
-      "width": 576,
-      "height": 740
+      "width": 474,
+      "height": 842
     }
   ]
 }
